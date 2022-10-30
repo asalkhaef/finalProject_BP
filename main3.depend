@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1643102181 source:d:\programming\quera\main project\project3.asalkhaef\main3\main.cpp
+	<iostream>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
